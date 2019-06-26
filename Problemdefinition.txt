@@ -7,8 +7,17 @@ the employees of the Contoso Multinational Company.
 
 
 Fuctional Requirements
+
 1)Login
 2)Register
-3)
+3)Update
+4)Delete
 
+
+Non-functional Requirements
+
+1)Data Security
+2)User Verification
+3)Ease Of Accessing Information
+4)Rhobustness
 
