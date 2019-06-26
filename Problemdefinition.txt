@@ -1,0 +1,14 @@
+Problem Definition
+
+In this case study, we need to build  host website  for employees so that they can access the
+Accounting information of Corporate Customers.
+This website should contain all the details related to customers which can be accessed by 
+the employees of the Contoso Multinational Company.
+
+
+Fuctional Requirements
+1)Login
+2)Register
+3)
+
+
