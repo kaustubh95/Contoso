@@ -14,3 +14,4 @@ var ContosoController=function (req, res) {
 
 app.get('/User',ContosoController );
 var server = app.listen(8000);
+console.log("Listening At Port 8000");
